@@ -1,0 +1,31 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+#It creates meta-data that git uses to track file history, and allows for tracking changes through commits. 
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+#It allows for you to see changes made to the repository and directory before making changes that are tracked. It prevents extra work from being created by releasing un-finished files. 
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+#You can view changes before committing by checking change history. 
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+#You can have branches for different ideas or timelines kept in seperate branches, so that data is seperated accordingly. 
+
+How do the diagrams help you visualize the branch structure?
+
+#They are helpful in keeping track of where i am in my own repository, and allow me to use them for quick reference.  
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
