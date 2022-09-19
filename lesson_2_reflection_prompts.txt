@@ -24,8 +24,10 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-
+#You join the commits together from where they left off, along with where the split branch went. The diagram is represented so you can trace back to the trackable commits on a given branch. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+#pros are you dont have to think about it when you are familiar with a given branch, cons are that you might not know exaclty where something went wrong if it breaks. 
 
