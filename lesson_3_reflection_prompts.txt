@@ -16,14 +16,14 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    #You could fast forward merge in a project. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    #It would be more difficult to collaborate, becuase you would have to give someone the file manually, and if it changed you wouldnt be able to track it down unless you were very familiar with each line, which would get out of control in a larger project. Much harder. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    #You would be able to work on seperate files that pretain to master and you could merge with master after people are in agreement. also allows for errors. 
